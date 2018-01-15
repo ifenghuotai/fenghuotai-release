@@ -28,3 +28,12 @@ Whatever language you are using, the result will be the same.
 $ My first method
 ```
 {% endmethod %}
+
+1. {% video %}http://index/test.mp4{% endvideo %}
+
+2. {% video width="740", height="350" %}http://index/test.mp4{% endvideo %}
+
+3. {% video width="740", height="350", loop="loop", controls="controls" %}http://index/test.mp4{% endvideo %}
+
+
+
