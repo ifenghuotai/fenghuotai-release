@@ -4,6 +4,10 @@
 
 * [My Awesome API](README.md)
 
+## 三、扫码管理
+
+* [3.1  新增个性化二维码类型](san-3001-sao-ma-guan-li/31-xin-zeng-ge-xing-hua-er-wei-ma-lei-xing.md)
+
 ## 二、场景应用
 
 * [2.1 创建规则的流程进行优化](er-3001-chang-jing-ying-yong/21-chuang-jian-gui-ze-de-liu-cheng-jin-xing-you-hua.md)
