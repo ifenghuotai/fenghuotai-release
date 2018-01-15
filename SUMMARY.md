@@ -4,6 +4,10 @@
 
 * [My Awesome API](README.md)
 
+## 高级群发
+
+* [群发流程，增加新的限制](gao-ji-qun-fa/qun-fa-liu-cheng-ff0c-zeng-jia-xin-de-xian-zhi.md)
+
 ## 仪表盘
 
 * [内容管理—排名前十图文报表下载功能升级](yi-biao-pan/nei-rong-guan-li-2014-pai-ming-qian-shi-tu-wen-bao-biao-xia-zai-gong-neng-sheng-ji.md)
