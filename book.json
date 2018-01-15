@@ -1,5 +1,8 @@
 {
-    "plugins": [ "theme-api" ],
+    "plugins": [ 
+		"theme-api",
+		"html5-video"
+	],
     "pluginsConfig": {
         "theme-api": {
             "languages": [
