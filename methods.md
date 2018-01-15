@@ -29,6 +29,8 @@ $ My first method
 ```
 {% endmethod %}
 
+添加视频
+
 1. {% video %}http://index/test.mp4{% endvideo %}
 
 2. {% video width="740", height="350" %}http://index/test.mp4{% endvideo %}
