@@ -14,7 +14,7 @@
 
 ## 仪表盘
 
-* [内容管理—排名前十图文报表下载功能升级](yi-biao-pan/nei-rong-guan-li-2014-pai-ming-qian-shi-tu-wen-bao-biao-xia-zai-gong-neng-sheng-ji.md)
+* [内容分析—排名前十图文报表下载功能升级](yi-biao-pan/nei-rong-guan-li-2014-pai-ming-qian-shi-tu-wen-bao-biao-xia-zai-gong-neng-sheng-ji.md)
 * [用户构成—受众构成 报表升级](yi-biao-pan/yong-hu-gou-cheng-2014-shou-zhong-gou-cheng-bao-biao-sheng-ji.md)
 * [总览 页面中，报表数据进行了替换](yi-biao-pan/zong-lan-ye-mian-zhong-ff0c-bao-biao-shu-ju-jin-xing-le-ti-huan.md)
 
