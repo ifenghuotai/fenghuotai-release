@@ -7,7 +7,7 @@
 ## 注册登录
 
 * [注册](zhu-ce/11-zhu-ce-liu-cheng-tian-xie-xin-xi-geng-jia-wan-shan.md)
-* [新增开发者文档](shou-ye/xin-zeng-kai-fa-zhe-wen-dang.md)
+* [帮助文档](shou-ye/xin-zeng-kai-fa-zhe-wen-dang.md)
 
 ## 仪表盘
 
