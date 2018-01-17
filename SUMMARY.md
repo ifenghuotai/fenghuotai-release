@@ -24,6 +24,7 @@
 ## 客户管理
 
 * [微信用户列表](ke-hu-guan-li/wei-xin-yong-hu-lie-biao-shai-xuan-qi-zhong-ff0c-tian-jia-xin-de-shai-xuan-tiao-jian.md)
+* [客户画像](ke-hu-guan-li/wei-xin-yong-hu-xiang-qing.md)
 
 ## 高级群发
 
