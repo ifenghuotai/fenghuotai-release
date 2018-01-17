@@ -1,21 +1,15 @@
 # 烽火台更新文档v1.1.2
 
-&lt;!-- toc --&gt;
+<!-- toc -->
+- old toc 1
+- old toc 2
+- old toc 3
+<!-- tocstop -->
 
-* old toc 1
-
-* old toc 2
-
-* old toc 3
-
-&lt;!-- tocstop --&gt;
-
-\#\# abc
-
+## abc
 This is a b c.
 
-\#\# xyz
-
+## xyz
 This is x y z.
 
 {%%}
