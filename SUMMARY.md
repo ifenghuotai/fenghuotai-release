@@ -27,8 +27,7 @@
 
 ## 高级群发
 
-* [群发流程，增加新的限制](gao-ji-qun-fa/qun-fa-liu-cheng-ff0c-zeng-jia-xin-de-xian-zhi.md)
-* [推送流程中，默认选项修改为未勾选](gao-ji-qun-fa/tui-song-liu-cheng-zhong-ff0c-mo-ren-xuan-xiang-xiu-gai-wei-wei-gou-xuan.md)
+* [创建群发](gao-ji-qun-fa/qun-fa-liu-cheng-ff0c-zeng-jia-xin-de-xian-zhi.md)
 
 ## 扫码管理
 
