@@ -35,6 +35,10 @@
                 "120x120": "assets/images/apple-touch-icon-120x120.png",
                 "180x180": "assets/images/apple-touch-icon-180x180.png"
             }
+        },
+		"simple-page-toc": {
+            "maxDepth": 3,
+            "skipFirstH1": true
         }
     }
 }
