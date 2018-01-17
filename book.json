@@ -7,7 +7,8 @@
 		"favicon",
 		"html5-video",
 		"-sharing","-livereload","-fontsettings",
-		"-lunr", "-search"
+		"-lunr", "-search",
+		"feathers-versions"
 	],
     "pluginsConfig": {
         "theme-api": {
@@ -34,6 +35,14 @@
                 "120x120": "assets/images/apple-touch-icon-120x120.png",
                 "180x180": "assets/images/apple-touch-icon-180x180.png"
             }
+        },
+		"versions": {
+            "options": [
+                {
+                    "value": "http://brands.parllay.cn/releases/1.1.2",
+                    "text": "1.1.2"
+                }
+            ]
         }
     }
 }
