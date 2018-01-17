@@ -8,8 +8,7 @@
 		"html5-video",
 		"-sharing","-livereload","-fontsettings",
 		"-lunr", "-search",
-		"expandable-chapters-small",
-		"atoc"
+		"diy-introduction"
 	],
     "pluginsConfig": {
         "theme-api": {
@@ -37,9 +36,6 @@
                 "180x180": "assets/images/apple-touch-icon-180x180.png"
             }
         },
-		"atoc": {
-			"addClass": true,
-			"className": "atoc"
-		}
+		"introduction-text": "封面"
     }
 }
