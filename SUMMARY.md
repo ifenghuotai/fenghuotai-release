@@ -23,7 +23,7 @@
 
 ## 客户管理
 
-* [微信用户列表 筛选器中，添加新的筛选条件](ke-hu-guan-li/wei-xin-yong-hu-lie-biao-shai-xuan-qi-zhong-ff0c-tian-jia-xin-de-shai-xuan-tiao-jian.md)
+* [微信用户列表](ke-hu-guan-li/wei-xin-yong-hu-lie-biao-shai-xuan-qi-zhong-ff0c-tian-jia-xin-de-shai-xuan-tiao-jian.md)
 
 ## 高级群发
 
