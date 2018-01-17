@@ -5,7 +5,9 @@
     "plugins": [ 
 		"theme-api",
 		"favicon",
-		"html5-video"
+		"html5-video",
+		"-sharing","-livereload","-fontsettings",
+		"-lunr", "-search", "search-plus"
 	],
     "pluginsConfig": {
         "theme-api": {
