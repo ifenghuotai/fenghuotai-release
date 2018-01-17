@@ -1,8 +1,12 @@
 # 烽火台更新文档v1.1.2
 
-&lt;
+&lt;!-- toc --&gt;
 
-!-- toc --
+- old toc 1
 
-&gt;
+- old toc 2
+
+- old toc 3
+
+&lt;!-- tocstop --&gt;
 
