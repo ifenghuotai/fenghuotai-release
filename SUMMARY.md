@@ -2,7 +2,7 @@
 
 ## 烽火台更新文档v1.1.2
 
-* [My Awesome API](README.md)
+* [首页](README.md)
 
 ## 注册登录
 
@@ -33,8 +33,4 @@
 ## 扫码管理
 
 * [新增个性化二维码类型](san-3001-sao-ma-guan-li/31-xin-zeng-ge-xing-hua-er-wei-ma-lei-xing.md)
-
-## Methods
-
-* [Defining Methods](methods.md)
 
