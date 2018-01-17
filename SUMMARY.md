@@ -31,5 +31,5 @@
 
 ## 扫码管理
 
-* [新增个性化二维码类型](san-3001-sao-ma-guan-li/31-xin-zeng-ge-xing-hua-er-wei-ma-lei-xing.md)
+* [二维码管理](san-3001-sao-ma-guan-li/31-xin-zeng-ge-xing-hua-er-wei-ma-lei-xing.md)
 
