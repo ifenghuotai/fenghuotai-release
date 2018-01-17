@@ -18,8 +18,8 @@
 
 ## 场景应用
 
-* [创建规则的流程进行优化](er-3001-chang-jing-ying-yong/21-chuang-jian-gui-ze-de-liu-cheng-jin-xing-you-hua.md)
-* [新建规则功能升级](er-3001-chang-jing-ying-yong/xin-jian-gui-ze-gong-neng-sheng-ji.md)
+* [创建规则](er-3001-chang-jing-ying-yong/21-chuang-jian-gui-ze-de-liu-cheng-jin-xing-you-hua.md)
+* [默认设置](er-3001-chang-jing-ying-yong/xin-jian-gui-ze-gong-neng-sheng-ji.md)
 
 ## 客户管理
 
