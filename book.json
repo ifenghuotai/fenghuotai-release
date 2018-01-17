@@ -7,8 +7,7 @@
 		"favicon",
 		"html5-video",
 		"-sharing","-livereload","-fontsettings",
-		"-lunr", "-search",
-		"diy-introduction"
+		"-lunr", "-search"
 	],
     "pluginsConfig": {
         "theme-api": {
@@ -35,7 +34,6 @@
                 "120x120": "assets/images/apple-touch-icon-120x120.png",
                 "180x180": "assets/images/apple-touch-icon-180x180.png"
             }
-        },
-		"introduction-text": "封面"
+        }
     }
 }
