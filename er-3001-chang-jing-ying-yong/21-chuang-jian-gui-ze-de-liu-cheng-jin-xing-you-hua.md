@@ -5,4 +5,4 @@
 {% video width="1160", height="540" %}http://cdn.parllay.cn/Figchm8KXU2N7heBfUUmlmPiHYvR{% endvideo %}
 
 ## 2.触发条件中增加了“转发客服”功能
-![](/assets/1516078432.png) {:height="50%" width="50%"}
+![](/assets/1516078432.png){:height="50%" width="50%"}
