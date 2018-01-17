@@ -8,7 +8,8 @@
 		"html5-video",
 		"-sharing","-livereload","-fontsettings",
 		"-lunr", "-search",
-		"expandable-chapters-small"
+		"expandable-chapters-small",
+		"atoc"
 	],
     "pluginsConfig": {
         "theme-api": {
@@ -35,6 +36,10 @@
                 "120x120": "assets/images/apple-touch-icon-120x120.png",
                 "180x180": "assets/images/apple-touch-icon-180x180.png"
             }
-        }
+        },
+		"atoc": {
+			"addClass": true,
+			"className": "atoc"
+		}
     }
 }
