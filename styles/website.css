@@ -1,0 +1,21 @@
+::-webkit-scrollbar{
+	/*垂直滚动条的宽*/
+	width: 5px;
+	/*水平滚动条的高*/
+	height: 5px;
+}
+::-webkit-scrollbar-track-plece{
+	/*修改滚动条的背景和圆角*/
+	background: #abcdef;
+	-webkit-border-radius: 2px;
+}
+/*修改垂直滚动条的样式*/
+::-webkit-scrollbar-thumb:vertical{
+	background-color: #A8A8A8;
+	-webkit-border-radius: 2px;
+}
+/*修改水平滚动条的样式*/
+::-webkit-scrollbar-thumb:horizontal{
+	background-color: #A8A8A8;
+	-webkit-border-radius: 2px;
+}
