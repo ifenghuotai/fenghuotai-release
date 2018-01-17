@@ -1,15 +1,12 @@
 # Summary
 
-## 烽火台更新文档
+## 烽火台更新文档v1.1.2
 
 * [My Awesome API](README.md)
 
-## 注册
+## 注册登录
 
 * [注册流程填写信息更加完善](zhu-ce/11-zhu-ce-liu-cheng-tian-xie-xin-xi-geng-jia-wan-shan.md)
-
-## 首页
-
 * [新增开发者文档](shou-ye/xin-zeng-kai-fa-zhe-wen-dang.md)
 
 ## 仪表盘
