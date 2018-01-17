@@ -37,6 +37,7 @@
             }
         },
 		"versions": {
+			"gitbookConfigURL": "https://raw.githubusercontent.com/ifenghuotai/fenghuotai-release/master/book.json",
             "options": [
                 {
                     "value": "http://brands.parllay.cn/releases/1.1.2",
