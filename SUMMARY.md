@@ -11,10 +11,10 @@
 
 ## 仪表盘
 
-* [报表解释说明](yi-biao-pan/bao-biao-mo-kuai-zeng-jia-jie-shi-shuo-ming.md)
-* [内容分析](yi-biao-pan/nei-rong-guan-li-2014-pai-ming-qian-shi-tu-wen-bao-biao-xia-zai-gong-neng-sheng-ji.md)
-* [用户构成](yi-biao-pan/yong-hu-gou-cheng-2014-shou-zhong-gou-cheng-bao-biao-sheng-ji.md)
 * [总览](yi-biao-pan/zong-lan-ye-mian-zhong-ff0c-bao-biao-shu-ju-jin-xing-le-ti-huan.md)
+* [用户构成](yi-biao-pan/yong-hu-gou-cheng-2014-shou-zhong-gou-cheng-bao-biao-sheng-ji.md)
+* [内容分析](yi-biao-pan/nei-rong-guan-li-2014-pai-ming-qian-shi-tu-wen-bao-biao-xia-zai-gong-neng-sheng-ji.md)
+* [报表解释说明](yi-biao-pan/bao-biao-mo-kuai-zeng-jia-jie-shi-shuo-ming.md)
 
 ## 场景应用
 
