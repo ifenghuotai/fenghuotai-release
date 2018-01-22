@@ -32,6 +32,10 @@
 * [消息素材](su-cai-guan-li/feng-huo-tai-tui-song-nei-rong-lei-xing-jie-shao.md)
 * [媒体素材](su-cai-guan-li/zhi-chi-duo-zhang-tu-pian-pi-liang-shang-chuan.md)
 
+## 企业功能
+
+* [企业信息](qi-ye-gong-neng/qi-ye-xin-xi.md)
+
 ## 客户管理
 
 * [微信用户列表](ke-hu-guan-li/wei-xin-yong-hu-lie-biao.md)
@@ -64,8 +68,4 @@
 
 * [基础菜单](cai-dan-guan-li/ji-chu-cai-dan.md)
 * [个性化菜单](cai-dan-guan-li/ge-xing-hua-cai-dan.md)
-
-## 企业功能
-
-* 企业信息
 
