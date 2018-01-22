@@ -65,3 +65,7 @@
 * [基础菜单](cai-dan-guan-li/ji-chu-cai-dan.md)
 * [个性化菜单](cai-dan-guan-li/ge-xing-hua-cai-dan.md)
 
+## 企业功能
+
+* 企业信息
+
