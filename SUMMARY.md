@@ -17,6 +17,11 @@
 * [微信事件](gao-ji-fen-xi/gao-ji-fen-xi-cha-kan-ren-yi-zu-he-tiao-jian-xia-de-shu-ju.md)
 * [网页事件](gao-ji-fen-xi/wang-ye-shi-jian.md)
 
+## 广告管理
+
+* [广告管理](guang-gao-guan-li/guang-gao-guan-li.md)
+* [广告概览](guang-gao-guan-li/guang-gao-gai-lan.md)
+
 ## 场景应用
 
 * [规则首页](chang-jing-ying-yong/zheng-que-chuang-jian-zi-dong-hua-hui-fu-gui-ze.md)
