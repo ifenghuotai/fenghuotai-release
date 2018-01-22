@@ -3,7 +3,6 @@
 ## 登录注册
 
 * [注册账号](README.md)
-* [注册账号](deng-lu-zhu-ce/zhu-ce-zhang-hao.md)
 * [视频演示](deng-lu-zhu-ce/shi-pin-yan-shi.md)
 
 ## 报表分析
