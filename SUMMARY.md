@@ -40,7 +40,6 @@
 * [微信标签管理](ke-hu-guan-li/wei-xin-biao-qian-guan-li.md)
 * [批量标签操作](ke-hu-guan-li/pi-liang-biao-qian-cao-zuo.md)
 * [生成短链追踪用户行为](zhui-zong-guan-li/sheng-cheng-duan-lian-zhui-zong-yong-hu-xing-wei.md)
-* 微信标签管理
 
 ## 高级群发
 
