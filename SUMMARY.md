@@ -1,36 +1,71 @@
 # Summary
 
-## Release -1.1.2
+## 登录注册
 
-* [首页](README.md)
-
-## 注册登录
-
-* [注册](zhu-ce/11-zhu-ce-liu-cheng-tian-xie-xin-xi-geng-jia-wan-shan.md)
-* [帮助文档](shou-ye/xin-zeng-kai-fa-zhe-wen-dang.md)
+* [注册账号](README.md)
+* [视频演示](deng-lu-zhu-ce/shi-pin-yan-shi.md)
 
 ## 仪表盘
 
-* [总览](yi-biao-pan/zong-lan-ye-mian-zhong-ff0c-bao-biao-shu-ju-jin-xing-le-ti-huan.md)
-* [用户构成](yi-biao-pan/yong-hu-gou-cheng-2014-shou-zhong-gou-cheng-bao-biao-sheng-ji.md)
-* [内容分析](yi-biao-pan/nei-rong-guan-li-2014-pai-ming-qian-shi-tu-wen-bao-biao-xia-zai-gong-neng-sheng-ji.md)
-* [报表解释说明](yi-biao-pan/bao-biao-mo-kuai-zeng-jia-jie-shi-shuo-ming.md)
+* [总览](yi-biao-pan/zong-lan.md)
+* [用户构成](yi-biao-pan/yi-biao-pan-cheng-shi-3001-sheng-ming-zhou-qi-deng-duo-wei-du-fen-xi.md)
+* [用户行为](yi-biao-pan/yi-biao-76d8-cai-dan-dian-ji-qing-kuang-ji-ming-xi.md)
+* [内容分析](yi-biao-pan/yi-biao-76d8-cha-kan-wen-zhang-tui-song-hou-yue-du-qing-kuang.md)
+
+## 高级分析
+
+* [微信事件](gao-ji-fen-xi/gao-ji-fen-xi-cha-kan-ren-yi-zu-he-tiao-jian-xia-de-shu-ju.md)
+* [网页事件](gao-ji-fen-xi/wang-ye-shi-jian.md)
+
+## 广告管理
+
+* [广告管理](guang-gao-guan-li/guang-gao-guan-li.md)
+* [广告概览](guang-gao-guan-li/guang-gao-gai-lan.md)
 
 ## 场景应用
 
-* [创建规则](er-3001-chang-jing-ying-yong/21-chuang-jian-gui-ze-de-liu-cheng-jin-xing-you-hua.md)
-* [默认设置](er-3001-chang-jing-ying-yong/xin-jian-gui-ze-gong-neng-sheng-ji.md)
+* [规则首页](chang-jing-ying-yong/zheng-que-chuang-jian-zi-dong-hua-hui-fu-gui-ze.md)
+* [默认设置](chang-jing-ying-yong/mo-ren-hui-fu-zhi-chi-duo-zhong-lei-xing.md)
+
+## 素材管理
+
+* [消息素材](su-cai-guan-li/feng-huo-tai-tui-song-nei-rong-lei-xing-jie-shao.md)
+* [媒体素材](su-cai-guan-li/zhi-chi-duo-zhang-tu-pian-pi-liang-shang-chuan.md)
 
 ## 客户管理
 
-* [微信用户列表](ke-hu-guan-li/wei-xin-yong-hu-lie-biao-shai-xuan-qi-zhong-ff0c-tian-jia-xin-de-shai-xuan-tiao-jian.md)
-* [客户画像](ke-hu-guan-li/wei-xin-yong-hu-xiang-qing.md)
+* [微信用户列表](ke-hu-guan-li/wei-xin-yong-hu-lie-biao.md)
+* [客户互动明细](ke-hu-guan-li/yong-hu-yu-gong-zhong-hao-zhi-jian-de-hu-dong-ming-xi.md)
+* [平台标签管理](ke-hu-guan-li/quan-liang-biao-qian-de-cha-kan-yu-chu-li.md)
+* [微信标签管理](ke-hu-guan-li/wei-xin-biao-qian-guan-li.md)
+* [批量标签操作](ke-hu-guan-li/pi-liang-biao-qian-cao-zuo.md)
 
 ## 高级群发
 
-* [创建群发](gao-ji-qun-fa/qun-fa-liu-cheng-ff0c-zeng-jia-xin-de-xian-zhi.md)
+* [高级群发](gao-ji-qun-fa/feng-huo-tai-tui-song-fang-shi-lei-xing.md)
+* [群发报表](gao-ji-qun-fa/qun-fa-bao-biao.md)
+
+## 追踪管理
+
+* [短链报表](zhui-zong-guan-li/duan-lian-bao-biao.md)
+* [短链管理](zhui-zong-guan-li/duan-lian-guan-li.md)
+* [追踪配置](zhui-zong-guan-li/zhui-zong-pei-zhi.md)
 
 ## 扫码管理
 
-* [二维码管理](san-3001-sao-ma-guan-li/31-xin-zeng-ge-xing-hua-er-wei-ma-lei-xing.md)
+* [二维码报表](sao-ma-guan-li/er-wei-ma-bao-biao.md)
+* [二维码管理](sao-ma-guan-li/er-wei-ma-guan-li.md)
+
+## 菜单管理
+
+* [基础菜单](cai-dan-guan-li/ji-chu-cai-dan.md)
+* [个性化菜单](cai-dan-guan-li/ge-xing-hua-cai-dan.md)
+
+## 企业功能
+
+* [企业信息](qi-ye-gong-neng/qi-ye-xin-xi.md)
+* [团队协作](ke-hu-guan-li/tuan-dui-xie-zuo.md)
+* [用户管理](qi-ye-gong-neng/yong-hu-guan-li.md)
+* [公众号设置](qi-ye-gong-neng/gong-zhong-hao-she-zhi.md)
+* [操作记录](qi-ye-gong-neng/cao-zuo-ji-lu.md)
 
