@@ -44,7 +44,6 @@
 * [基础菜单](cai-dan-guan-li/ji-chu-cai-dan.md)
 * [个性化菜单](cai-dan-guan-li/ge-xing-hua-cai-dan.md)
 * [生成短链追踪用户行为](zhui-zong-guan-li/sheng-cheng-duan-lian-zhui-zong-yong-hu-xing-wei.md)
-* [二维码报表](sao-ma-guan-li/er-wei-ma-bao-biao.md)
 * [二维码管理](sao-ma-guan-li/er-wei-ma-guan-li.md)
 * 微信标签管理
 
@@ -58,4 +57,8 @@
 * [短链报表](zhui-zong-guan-li/duan-lian-bao-biao.md)
 * [短链管理](zhui-zong-guan-li/duan-lian-guan-li.md)
 * [追踪配置](zhui-zong-guan-li/zhui-zong-pei-zhi.md)
+
+## 扫码管理
+
+* [二维码报表](sao-ma-guan-li/er-wei-ma-bao-biao.md)
 
