@@ -32,11 +32,6 @@
 * [消息素材](su-cai-guan-li/feng-huo-tai-tui-song-nei-rong-lei-xing-jie-shao.md)
 * [媒体素材](su-cai-guan-li/zhi-chi-duo-zhang-tu-pian-pi-liang-shang-chuan.md)
 
-## 高级群发
-
-* [高级群发](gao-ji-qun-fa/feng-huo-tai-tui-song-fang-shi-lei-xing.md)
-* [群发报表](gao-ji-qun-fa/qun-fa-bao-biao.md)
-
 ## 客户管理
 
 * [微信用户列表](ke-hu-guan-li/wei-xin-yong-hu-lie-biao.md)
@@ -51,4 +46,9 @@
 * [二维码报表](sao-ma-guan-li/er-wei-ma-bao-biao.md)
 * [二维码管理](sao-ma-guan-li/er-wei-ma-guan-li.md)
 * [嵌入代码追踪用户行为](zhui-zong-guan-li/qian-ru-dai-ma-zhui-zong-yong-hu-xing-wei.md)
+
+## 高级群发
+
+* [高级群发](gao-ji-qun-fa/feng-huo-tai-tui-song-fang-shi-lei-xing.md)
+* [群发报表](gao-ji-qun-fa/qun-fa-bao-biao.md)
 
