@@ -57,4 +57,5 @@
 
 * [短链报表](zhui-zong-guan-li/duan-lian-bao-biao.md)
 * [短链管理](zhui-zong-guan-li/duan-lian-guan-li.md)
+* 追踪配置
 
