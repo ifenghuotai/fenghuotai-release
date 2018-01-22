@@ -32,10 +32,6 @@
 * [消息素材](su-cai-guan-li/feng-huo-tai-tui-song-nei-rong-lei-xing-jie-shao.md)
 * [媒体素材](su-cai-guan-li/zhi-chi-duo-zhang-tu-pian-pi-liang-shang-chuan.md)
 
-## 企业功能
-
-* [企业信息](qi-ye-gong-neng/qi-ye-xin-xi.md)
-
 ## 客户管理
 
 * [微信用户列表](ke-hu-guan-li/wei-xin-yong-hu-lie-biao.md)
@@ -43,8 +39,6 @@
 * [平台标签管理](ke-hu-guan-li/quan-liang-biao-qian-de-cha-kan-yu-chu-li.md)
 * [微信标签管理](ke-hu-guan-li/wei-xin-biao-qian-guan-li.md)
 * [批量标签操作](ke-hu-guan-li/pi-liang-biao-qian-cao-zuo.md)
-* [团队协作](ke-hu-guan-li/tuan-dui-xie-zuo.md)
-* [用户管理](qi-ye-gong-neng/yong-hu-guan-li.md)
 * [生成短链追踪用户行为](zhui-zong-guan-li/sheng-cheng-duan-lian-zhui-zong-yong-hu-xing-wei.md)
 * 微信标签管理
 
@@ -68,4 +62,10 @@
 
 * [基础菜单](cai-dan-guan-li/ji-chu-cai-dan.md)
 * [个性化菜单](cai-dan-guan-li/ge-xing-hua-cai-dan.md)
+
+## 企业功能
+
+* [企业信息](qi-ye-gong-neng/qi-ye-xin-xi.md)
+* [团队协作](ke-hu-guan-li/tuan-dui-xie-zuo.md)
+* [用户管理](qi-ye-gong-neng/yong-hu-guan-li.md)
 
