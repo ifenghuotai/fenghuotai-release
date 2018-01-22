@@ -41,7 +41,6 @@
 * [批量标签操作](ke-hu-guan-li/pi-liang-biao-qian-cao-zuo.md)
 * [团队协作](ke-hu-guan-li/tuan-dui-xie-zuo.md)
 * [用户管理](qi-ye-gong-neng/yong-hu-guan-li.md)
-* [基础菜单](cai-dan-guan-li/ji-chu-cai-dan.md)
 * [个性化菜单](cai-dan-guan-li/ge-xing-hua-cai-dan.md)
 * [生成短链追踪用户行为](zhui-zong-guan-li/sheng-cheng-duan-lian-zhui-zong-yong-hu-xing-wei.md)
 * 微信标签管理
@@ -61,4 +60,8 @@
 
 * [二维码报表](sao-ma-guan-li/er-wei-ma-bao-biao.md)
 * [二维码管理](sao-ma-guan-li/er-wei-ma-guan-li.md)
+
+## 菜单管理
+
+* [基础菜单](cai-dan-guan-li/ji-chu-cai-dan.md)
 
