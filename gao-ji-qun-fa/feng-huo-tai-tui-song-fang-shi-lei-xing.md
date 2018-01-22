@@ -1,3 +1,5 @@
+# 高级群发
+
 对于微信后台提供的基础的推送方式，很难满足客户需求实现精准、有效的营销。
 
 烽火台在此基础上，实现了精准人群分组的推送，同时增加了两种增强营销效果的推送方式。![](/assets/1516355060%281%29.png)1、标准群发
@@ -24,5 +26,5 @@
 
 虽然通过微信后台发送的消息可以被历史消息所记录，但它无法像烽火台一样精准的分类粉丝。
 
-历史消息列表微信官方说明见 [http://mp.weixin.qq.com/wiki?t=resource/res\_main&id=mp1421140549&token=&lang=zh\_CN](http://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1421140549&token=&lang=zh_CN) （搜索“历史消息”）
+历史消息列表微信官方说明见 [http://mp.weixin.qq.com/wiki?t=resource/res\_main&id=mp1421140549&token=⟨=zh\_CN](http://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1421140549&token=&lang=zh_CN) （搜索“历史消息”）
 
