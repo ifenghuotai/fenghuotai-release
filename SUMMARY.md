@@ -53,3 +53,7 @@
 * [高级群发](gao-ji-qun-fa/feng-huo-tai-tui-song-fang-shi-lei-xing.md)
 * [群发报表](gao-ji-qun-fa/qun-fa-bao-biao.md)
 
+## 追踪管理
+
+* [短链报表](zhui-zong-guan-li/duan-lian-bao-biao.md)
+
