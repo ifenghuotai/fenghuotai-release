@@ -5,7 +5,7 @@
 * [注册账号](README.md)
 * [视频演示](deng-lu-zhu-ce/shi-pin-yan-shi.md)
 
-## 报表分析
+## 仪表盘
 
 * [总览](yi-biao-pan/zong-lan.md)
 * [用户构成](yi-biao-pan/yi-biao-pan-cheng-shi-3001-sheng-ming-zhou-qi-deng-duo-wei-du-fen-xi.md)
