@@ -37,6 +37,7 @@
 * [微信用户列表](ke-hu-guan-li/wei-xin-yong-hu-lie-biao.md)
 * [客户互动明细](ke-hu-guan-li/yong-hu-yu-gong-zhong-hao-zhi-jian-de-hu-dong-ming-xi.md)
 * [平台标签管理](ke-hu-guan-li/quan-liang-biao-qian-de-cha-kan-yu-chu-li.md)
+* [微信标签管理](ke-hu-guan-li/wei-xin-biao-qian-guan-li.md)
 * [批量标签操作](ke-hu-guan-li/pi-liang-biao-qian-cao-zuo.md)
 * [团队协作](ke-hu-guan-li/tuan-dui-xie-zuo.md)
 * [用户管理](qi-ye-gong-neng/yong-hu-guan-li.md)
@@ -45,7 +46,7 @@
 * [生成短链追踪用户行为](zhui-zong-guan-li/sheng-cheng-duan-lian-zhui-zong-yong-hu-xing-wei.md)
 * [二维码报表](sao-ma-guan-li/er-wei-ma-bao-biao.md)
 * [二维码管理](sao-ma-guan-li/er-wei-ma-guan-li.md)
-* [嵌入代码追踪用户行为](zhui-zong-guan-li/qian-ru-dai-ma-zhui-zong-yong-hu-xing-wei.md)
+* 微信标签管理
 
 ## 高级群发
 
