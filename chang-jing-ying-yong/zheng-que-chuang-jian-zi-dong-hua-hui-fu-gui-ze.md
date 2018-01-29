@@ -1,7 +1,7 @@
 # 规则首页
 
 点击“场景应用—规则首页—新增规则”，设定规则后可实现与用户秒互动。  
-{% video %}http://cdn.parllay.cn/lj\_LV5JRVZFTM96AYI8XeCzuvJIA{% endvideo %}
+{% video %}http://cdn.parllay.cn/lj_LV5JRVZFTM96AYI8XeCzuvJIA{% endvideo %}
 
 ### 创建自动回复的规则如下：
 
