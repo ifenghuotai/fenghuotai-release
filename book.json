@@ -11,7 +11,8 @@
     "-fontsettings",
     "-lunr",
     "-search",
-    "feathers-versions"
+    "feathers-versions",
+    "tbfed-pagefooter"
   ],
   "pluginsConfig": {
     "theme-api": {
@@ -38,6 +39,11 @@
         "120x120": "assets/images/apple-touch-icon-120x120.png",
         "180x180": "assets/images/apple-touch-icon-180x180.png"
       }
+    },
+    "tbfed-pagefooter": {
+      "copyright":"Copyright &copy ifenghuotai.cn 2018",
+      "modify_label": "文件修订时间：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
     },
     "versions": {
       "gitbookConfigURL": "https://raw.githubusercontent.com/ifenghuotai/fenghuotai-release/master/book.json",
