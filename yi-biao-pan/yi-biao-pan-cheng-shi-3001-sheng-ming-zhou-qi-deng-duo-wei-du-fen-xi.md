@@ -1,8 +1,7 @@
 # 用户构成
 
 用户构成页面是根据用户的基本信息进行的多维度数据分析。
-
-http://cdn.parllay.cn/lugga0nE3U7D4Vi2RtyxAMWRKFTd
+{% video width="800px", height="540px" %}http://cdn.parllay.cn/lugga0nE3U7D4Vi2RtyxAMWRKFTd{% endvideo %}
 
 ## 具体介绍如下：
 

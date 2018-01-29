@@ -1,6 +1,6 @@
 # 基础菜单
 
-http://cdn.parllay.cn/FiGq-qRz51vRua9s64S36iodmqeC
+{% video width="800px", height="540px" %}http://cdn.parllay.cn/FiGq-qRz51vRua9s64S36iodmqeC{% endvideo %}
 
 ### 一、编辑微信菜单
 
