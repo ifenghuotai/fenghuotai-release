@@ -1,6 +1,6 @@
 # 客户互动明细
 
-**放入视频**
+http://cdn.parllay.cn/FpOsAFKu0-GGZeoaeBDebYYnR0uF
 
 ### 一、筛选粉丝互动明细
 
