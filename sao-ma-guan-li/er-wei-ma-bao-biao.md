@@ -1,6 +1,6 @@
 # 二维码报表
 
-**放入视频**
+http://cdn.parllay.cn/Fnt7tCdG-M9nrbPuSn7DvtItFJAI
 
 ### 一、扫码概况
 
