@@ -1,7 +1,7 @@
 # 团队协作
 
 针对不同的部门，我们可以设置不同的团队，为其开放对应的模块权限。  
-{% video width="800px", height="540px" %}http://cdn.parllay.cn/lg8S-Y3nwjvZ-62xkU1NpYTimmVO{% endvideo %}
+{% video %}http://cdn.parllay.cn/lg8S-Y3nwjvZ-62xkU1NpYTimmVO{% endvideo %}
 
 ### 一、添加团队
 
