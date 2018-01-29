@@ -1,6 +1,6 @@
 # 微信用户列表
 
-http://cdn.parllay.cn/FkWHb79bro-KJxJ0GgWgBXS4fiqy
+http://cdn.parllay.cn/loTgunei4D2P7lCWsAlxzLWloIGv
 
 ### 一、筛选粉丝
 
