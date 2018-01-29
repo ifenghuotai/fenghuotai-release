@@ -24,3 +24,7 @@ video{
 	width:800px;
 	height:470px;
 }
+img{
+	max-width: 1240px;
+	max-height: 570px;
+}
