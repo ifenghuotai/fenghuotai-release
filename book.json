@@ -1,49 +1,52 @@
 {
-	"styles": {
-		"website": "styles/website.css"
-	},
-    "plugins": [ 
-		"theme-api",
-		"favicon",
-		"html5-video",
-		"-sharing","-livereload","-fontsettings",
-		"-lunr", "-search",
-		"feathers-versions"
-	],
-    "pluginsConfig": {
-        "theme-api": {
-            "languages": [
-                {
-                    "lang": "js",
-                    "name": "JavaScript",
-                    "default": true
-                },
-                {
-                    "lang": "go",
-                    "name": "Go"
-                }
-            ]
+  "styles": {
+    "website": "styles/website.css"
+  },
+  "plugins": [
+    "theme-api",
+    "favicon",
+    "html5-video",
+    "-sharing",
+    "-livereload",
+    "-fontsettings",
+    "-lunr",
+    "-search",
+    "feathers-versions"
+  ],
+  "pluginsConfig": {
+    "theme-api": {
+      "languages": [
+        {
+          "lang": "js",
+          "name": "JavaScript",
+          "default": true
         },
-		"theme-default": {
-			"showLevel": true
-		},
-		"favicon": {
-            "shortcut": "assets/images/favicon.ico",
-            "bookmark": "assets/images/favicon.ico",
-            "appleTouch": "assets/images/apple-touch-icon.png",
-            "appleTouchMore": {
-                "120x120": "assets/images/apple-touch-icon-120x120.png",
-                "180x180": "assets/images/apple-touch-icon-180x180.png"
-            }
-        },
-		"versions": {
-			"gitbookConfigURL": "https://raw.githubusercontent.com/ifenghuotai/fenghuotai-release/master/book.json",
-            "options": [
-                {
-                    "value": "http://brands.parllay.cn/releases/1.1.2",
-                    "text": "1.1.2"
-                }
-            ]
+        {
+          "lang": "go",
+          "name": "Go"
         }
+      ]
+    },
+    "theme-default": {
+      "showLevel": true
+    },
+    "favicon": {
+      "shortcut": "assets/images/favicon.ico",
+      "bookmark": "assets/images/favicon.ico",
+      "appleTouch": "assets/images/apple-touch-icon.png",
+      "appleTouchMore": {
+        "120x120": "assets/images/apple-touch-icon-120x120.png",
+        "180x180": "assets/images/apple-touch-icon-180x180.png"
+      }
+    },
+    "versions": {
+      "gitbookConfigURL": "https://raw.githubusercontent.com/ifenghuotai/fenghuotai-release/master/book.json",
+      "options": [
+        {
+          "value": "http://brands.parllay.cn/releases/1.1.2",
+          "text": "1.1.2"
+        }
+      ]
     }
+  }
 }
