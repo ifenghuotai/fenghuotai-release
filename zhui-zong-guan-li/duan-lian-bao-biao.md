@@ -1,10 +1,7 @@
 # 短链报表
 
 通过在烽火台生成短链，将其替换文章内部原始链接，即可追踪用户行为轨迹。
-{% video width="800px", height="540px" %}http://cdn.parllay.cn/Fm1ylmOIRnsv6eMVCClUc4Dz56Rc{% endvideo %}
-
-
-http://cdn.parllay.cn/FpH2YS0JaIu22mGZsyU514rJttg4
+{% video width="800px", height="540px" %}http://cdn.parllay.cn/FpH2YS0JaIu22mGZsyU514rJttg4{% endvideo %}
 
 ### 一、短链报表
 
