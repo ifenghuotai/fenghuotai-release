@@ -1,6 +1,6 @@
 # 基础菜单
 
-**放入视频**
+http://cdn.parllay.cn/FiGq-qRz51vRua9s64S36iodmqeC
 
 ### 一、编辑微信菜单
 
