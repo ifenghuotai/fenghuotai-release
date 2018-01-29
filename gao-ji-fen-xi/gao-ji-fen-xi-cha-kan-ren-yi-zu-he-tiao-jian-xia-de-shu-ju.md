@@ -1,6 +1,6 @@
 # 微信事件
 
-{% video %}http://cdn.parllay.cn/lt\_uhycetzFYUEKLK\_jy9lK7lbim{% endvideo %}
+{% video %}http://cdn.parllay.cn/lt_uhycetzFYUEKLK_jy9lK7lbim{% endvideo %}
 
 ### 一、微信事件分析
 
