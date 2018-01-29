@@ -2,7 +2,7 @@
 
 针对特定的粉丝，可以设置不同的公众号菜单。
 
-**放入视频**
+http://cdn.parllay.cn/FuRqjZ2\_GF\_9-WC9QTrhkzbK\_J6k
 
 ### 一、创建个性化菜单
 
