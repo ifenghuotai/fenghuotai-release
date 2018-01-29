@@ -1,6 +1,6 @@
 # 消息素材
 
-烽火台可以创建、编辑自己平台的素材，同时可以从微信后台同步素材。
+烽火台可以创建、编辑自己平台的素材，同时可以从微信后台同步素材。  
 {% video width="800px", height="540px" %}http://cdn.parllay.cn/llaxnEe3j7pRvgLUonw4YIKO\_jcf{% endvideo %}
 
 ### 一、创建消息素材
