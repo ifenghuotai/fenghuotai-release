@@ -1,9 +1,10 @@
 # Summary
 
+## 烽火台使用说明
+
 ## 登录注册
 
 * [注册账号](README.md)
-* [视频演示](deng-lu-zhu-ce/shi-pin-yan-shi.md)
 
 ## 仪表盘
 

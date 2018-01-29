@@ -2,7 +2,7 @@
 
 总览页面是将用户构成、用户行为、内容分析页面中，客户使用频率较高的报表进行的汇总展示。
 
-**放入视频**
+http://cdn.parllay.cn/lmGbUxlqVr6edePzxdxJX1u7O3rl
 
 ## 具体介绍如下：
 

@@ -2,7 +2,7 @@
 
 注册流程视频演示
 
-**放入视频**
+http://cdn.parllay.cn/lmzdNp1Oh-deDkg1QBbVx42GnoqD
 
 ## 具体操作步骤：
 
