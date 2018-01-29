@@ -2,7 +2,7 @@
 
 推送过的文章的阅读情况，均会被记录在“仪表盘-内容分析”报表中。
 
-**放入视频**
+http://cdn.parllay.cn/Fm1ylmOIRnsv6eMVCClUc4Dz56Rc
 
 ## 具体介绍如下：
 
