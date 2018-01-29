@@ -1,7 +1,7 @@
 # 短链报表
 
-通过在烽火台生成短链，将其替换文章内部原始链接，即可追踪用户行为轨迹。
-{% video width="800px", height="540px" %}http://cdn.parllay.cn/FpH2YS0JaIu22mGZsyU514rJttg4{% endvideo %}
+通过在烽火台生成短链，将其替换文章内部原始链接，即可追踪用户行为轨迹。  
+{% video %}http://cdn.parllay.cn/FpH2YS0JaIu22mGZsyU514rJttg4{% endvideo %}
 
 ### 一、短链报表
 
@@ -9,7 +9,8 @@
 
 * 查看点击链接的粉丝列表；
 * 查看粉丝的访问方式，区分为微信方式和浏览器方式；
-* 将点击链接的粉丝打标签进行标记；
+* 将点击链接的粉丝打标签进行标记；  
+![](/assets/1516597792%281%29.png)
 
-![](/assets/1516597792%281%29.png)![](/assets/1516586155%281%29.png)
+![](/assets/1516586155%281%29.png)
 

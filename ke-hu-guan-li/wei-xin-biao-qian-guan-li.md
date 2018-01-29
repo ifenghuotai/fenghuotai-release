@@ -1,7 +1,7 @@
 # 微信标签管理
 
-针对微信标签的操作，在烽火台和微信后台两者之间的数据是同步的。
-{% video width="800px", height="540px" %}http://cdn.parllay.cn/llGS6a-mV8wikcPFHf-D-0AaxfOS{% endvideo %}
+针对微信标签的操作，在烽火台和微信后台两者之间的数据是同步的。  
+{% video %}http://cdn.parllay.cn/llGS6a-mV8wikcPFHf-D-0AaxfOS{% endvideo %}
 
 ### 一、粉丝微信标签管理
 
@@ -11,7 +11,6 @@
 * 可以新建（新建标签的操作仅可以在此执行）
 * 修改或删除标签
 
-注：标签删除后暂不支持恢复；
-
+注：标签删除后暂不支持恢复；  
 ![](/assets/1516358186%281%29.png)
 
