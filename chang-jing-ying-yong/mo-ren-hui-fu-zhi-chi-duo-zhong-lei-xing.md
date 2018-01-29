@@ -1,6 +1,8 @@
 # 默认设置
 
 当用户与公众号的互动行为并未触发规则首页中的规则时，会自动触发默认设置中的规则。
+{% video width="800px", height="540px" %}http://cdn.parllay.cn/Fm1ylmOIRnsv6eMVCClUc4Dz56Rc{% endvideo %}
+
 
 http://cdn.parllay.cn/ltWjklrW-c4nahlZfo2NX1d8WDgf
 

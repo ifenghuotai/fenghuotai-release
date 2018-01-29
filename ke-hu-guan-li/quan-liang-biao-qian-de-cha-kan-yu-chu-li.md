@@ -1,6 +1,8 @@
 # 平台标签管理
 
 无论是平台标签还是微信标签，都可以在烽火台上实现查看、管理。
+{% video width="800px", height="540px" %}http://cdn.parllay.cn/Fm1ylmOIRnsv6eMVCClUc4Dz56Rc{% endvideo %}
+
 
 http://cdn.parllay.cn/lioW7Lu8K73cUotST6g-kUhJ2FbC
 

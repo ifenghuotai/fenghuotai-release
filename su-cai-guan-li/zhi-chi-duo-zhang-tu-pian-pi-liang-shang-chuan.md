@@ -1,4 +1,6 @@
 # 媒体素材
+{% video width="800px", height="540px" %}http://cdn.parllay.cn/Fm1ylmOIRnsv6eMVCClUc4Dz56Rc{% endvideo %}
+
 
 http://cdn.parllay.cn/lmEdD2yZagx1hUyhUUxbRqIRrWli
 

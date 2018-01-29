@@ -1,4 +1,6 @@
 # 基础菜单
+{% video width="800px", height="540px" %}http://cdn.parllay.cn/Fm1ylmOIRnsv6eMVCClUc4Dz56Rc{% endvideo %}
+
 
 http://cdn.parllay.cn/FiGq-qRz51vRua9s64S36iodmqeC
 

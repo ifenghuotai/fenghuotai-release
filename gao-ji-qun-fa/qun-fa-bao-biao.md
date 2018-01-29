@@ -1,4 +1,6 @@
 # 群发报表
+{% video width="800px", height="540px" %}http://cdn.parllay.cn/Fm1ylmOIRnsv6eMVCClUc4Dz56Rc{% endvideo %}
+
 
 http://cdn.parllay.cn/Fv17tJPf2zlM25iKilgJaneD5w1i
 

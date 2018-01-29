@@ -1,6 +1,8 @@
 # 个性化菜单
 
 针对特定的粉丝，可以设置不同的公众号菜单。
+{% video width="800px", height="540px" %}http://cdn.parllay.cn/Fm1ylmOIRnsv6eMVCClUc4Dz56Rc{% endvideo %}
+
 
 http://cdn.parllay.cn/FuRqjZ2\_GF\_9-WC9QTrhkzbK\_J6k
 
