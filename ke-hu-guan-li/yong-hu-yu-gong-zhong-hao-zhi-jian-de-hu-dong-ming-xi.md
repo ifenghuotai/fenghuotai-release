@@ -1,6 +1,6 @@
 # 客户互动明细
 
-{% video width="800px", height="540px" %}http://cdn.parllay.cn/FpOsAFKu0-GGZeoaeBDebYYnR0uF{% endvideo %}
+{% video %}http://cdn.parllay.cn/FpOsAFKu0-GGZeoaeBDebYYnR0uF{% endvideo %}
 
 ### 一、筛选粉丝互动明细
 

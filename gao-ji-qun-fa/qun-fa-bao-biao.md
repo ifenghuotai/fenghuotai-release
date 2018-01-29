@@ -1,6 +1,6 @@
 # 群发报表
 
-{% video width="800px", height="540px" %}http://cdn.parllay.cn/Fv17tJPf2zlM25iKilgJaneD5w1i{% endvideo %}
+{% video %}http://cdn.parllay.cn/Fv17tJPf2zlM25iKilgJaneD5w1i{% endvideo %}
 
 ### 一、群发概况
 

@@ -5,7 +5,7 @@
 * 自定义二维码：同步其他平台常见的参数二维码时使用；
 * 普通二维码：创建新的二维码时使用；
 * 个性化二维码：为普通二维码增加LOGO，修改前景色；  
-{% video width="800px", height="540px" %}http://cdn.parllay.cn/ljI97KyScvRMDBmz7TYdySTnTYfP{% endvideo %}
+{% video %}http://cdn.parllay.cn/ljI97KyScvRMDBmz7TYdySTnTYfP{% endvideo %}
 
 ### 一、创建二维码
 

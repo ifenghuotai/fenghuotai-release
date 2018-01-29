@@ -1,6 +1,6 @@
 # 短链管理
 
-{% video width="800px", height="540px" %}http://cdn.parllay.cn/li59L2omH8KjQgy3A2zGJetSNulF{% endvideo %}
+{% video %}http://cdn.parllay.cn/li59L2omH8KjQgy3A2zGJetSNulF{% endvideo %}
 
 ### 一、创建短链
 

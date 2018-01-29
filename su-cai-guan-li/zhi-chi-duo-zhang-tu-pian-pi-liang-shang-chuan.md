@@ -1,6 +1,6 @@
 # 媒体素材
 
-{% video width="800px", height="540px" %}http://cdn.parllay.cn/lmEdD2yZagx1hUyhUUxbRqIRrWli{% endvideo %}
+{% video %}http://cdn.parllay.cn/lmEdD2yZagx1hUyhUUxbRqIRrWli{% endvideo %}
 
 ### 一、批量添加图片素材
 
