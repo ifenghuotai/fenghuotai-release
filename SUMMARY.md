@@ -2,9 +2,11 @@
 
 ## 烽火台使用说明
 
+* [注册账号](README.md)
+
 ## 登录注册
 
-* [注册账号](README.md)
+* [首页](feng-huo-tai-shi-yong-shuo-ming/shou-ye.md)
 
 ## 仪表盘
 
