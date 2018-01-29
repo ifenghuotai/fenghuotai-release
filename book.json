@@ -50,12 +50,12 @@
       "options": [
         {
           "value": "http://brands.parllay.cn/releases/help",
-          "text": "使用说明",
-          "selected":"selected"
+          "text": "使用说明"
         },
         {
           "value": "http://brands.parllay.cn/releases/1.1.2",
-          "text": "1.1.2"
+          "text": "1.1.2",
+          "selected":"selected"
         }
       ]
     }
