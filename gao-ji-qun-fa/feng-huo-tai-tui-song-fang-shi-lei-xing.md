@@ -2,7 +2,7 @@
 
 烽火台在微信后台提供的标准推送的基础上，实现了精准人群分组的推送，同时新增两种增强营销效果的推送方式。
 
-**放入视频 **
+http://cdn.parllay.cn/lq8RCNvDUwg8J1tfE-iJiSsJUQNE
 
 操作步骤如下：
 
