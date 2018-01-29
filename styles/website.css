@@ -21,10 +21,10 @@
 }
 
 video{
-	width:800px;
-	height:470px;
+	width:800px !important;
+	height:470px !important;
 }
 img{
-	max-width: 1240px;
-	max-height: 570px;
+	max-width: 1240px !important;
+	max-height: 570px !important;
 }
