@@ -1,6 +1,6 @@
 # 群发报表
 
-**放入视频**
+http://cdn.parllay.cn/Fv17tJPf2zlM25iKilgJaneD5w1i
 
 ### 一、群发概况
 
