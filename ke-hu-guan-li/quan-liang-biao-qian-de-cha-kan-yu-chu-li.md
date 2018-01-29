@@ -2,7 +2,7 @@
 
 无论是平台标签还是微信标签，都可以在烽火台上实现查看、管理。
 
-**放入视频**
+http://cdn.parllay.cn/lioW7Lu8K73cUotST6g-kUhJ2FbC
 
 ### 一、粉丝平台标签管理
 
