@@ -1,6 +1,6 @@
 # 微信事件
 
-**放入视频**
+http://cdn.parllay.cn/lt\_uhycetzFYUEKLK\_jy9lK7lbim
 
 ### 一、微信事件分析
 
