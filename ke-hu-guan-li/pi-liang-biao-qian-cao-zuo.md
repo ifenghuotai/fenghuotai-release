@@ -2,7 +2,7 @@
 
 “客户列表—批量标签管理”中，可以实现批量管理粉丝身上的微信、平台标签。
 
-**放入视频**
+http://cdn.parllay.cn/lngQdMKzEoT7d4n1wjcISHt5aaaD
 
 ### 一、粉丝批量打标签
 
