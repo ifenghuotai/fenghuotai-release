@@ -2,7 +2,7 @@
 
 针对不同的部门，我们可以设置不同的团队，为其开放对应的模块权限。
 
-**放入视频**
+http://cdn.parllay.cn/lg8S-Y3nwjvZ-62xkU1NpYTimmVO
 
 ### 一、添加团队
 
