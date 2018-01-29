@@ -1,9 +1,12 @@
 # Summary
 
+## 烽火台使用说明
+
+* [首页](README.md)
+
 ## 登录注册
 
-* [注册账号](README.md)
-* [视频演示](deng-lu-zhu-ce/shi-pin-yan-shi.md)
+* [注册账号](feng-huo-tai-shi-yong-shuo-ming/shou-ye.md)
 
 ## 仪表盘
 
@@ -16,11 +19,6 @@
 
 * [微信事件](gao-ji-fen-xi/gao-ji-fen-xi-cha-kan-ren-yi-zu-he-tiao-jian-xia-de-shu-ju.md)
 * [网页事件](gao-ji-fen-xi/wang-ye-shi-jian.md)
-
-## 广告管理
-
-* [广告管理](guang-gao-guan-li/guang-gao-guan-li.md)
-* [广告概览](guang-gao-guan-li/guang-gao-gai-lan.md)
 
 ## 场景应用
 
