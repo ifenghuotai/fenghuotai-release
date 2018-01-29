@@ -1,10 +1,7 @@
 # 用户管理
 
 在此页面可以为烽火台账号增加新的管理员，并且可以直接设置此管理员的功能权限以及所属团队。
-{% video width="800px", height="540px" %}http://cdn.parllay.cn/Fm1ylmOIRnsv6eMVCClUc4Dz56Rc{% endvideo %}
-
-
-http://cdn.parllay.cn/FkWHb79bro-KJxJ0GgWgBXS4fiqy
+{% video width="800px", height="540px" %}http://cdn.parllay.cn/FkWHb79bro-KJxJ0GgWgBXS4fiqy{% endvideo %}
 
 ### 一、添加平台用户
 
