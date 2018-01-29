@@ -1,5 +1,7 @@
 # 媒体素材
 
+http://cdn.parllay.cn/lmEdD2yZagx1hUyhUUxbRqIRrWli
+
 ### 一、批量添加图片素材
 
 点击该页面右上角的“批量添加图片素材”  按钮即可批量添加图片。![](/assets/1516354047%281%29.png)
