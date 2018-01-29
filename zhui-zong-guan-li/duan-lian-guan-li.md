@@ -1,8 +1,5 @@
 # 短链管理
-{% video width="800px", height="540px" %}http://cdn.parllay.cn/Fm1ylmOIRnsv6eMVCClUc4Dz56Rc{% endvideo %}
-
-
-http://cdn.parllay.cn/li59L2omH8KjQgy3A2zGJetSNulF
+{% video width="800px", height="540px" %}http://cdn.parllay.cn/li59L2omH8KjQgy3A2zGJetSNulF{% endvideo %}
 
 ### 一、创建短链
 
