@@ -1,8 +1,5 @@
 # 微信用户列表
-{% video width="800px", height="540px" %}http://cdn.parllay.cn/Fm1ylmOIRnsv6eMVCClUc4Dz56Rc{% endvideo %}
-
-
-http://cdn.parllay.cn/loTgunei4D2P7lCWsAlxzLWloIGv
+{% video width="800px", height="540px" %}http://cdn.parllay.cn/loTgunei4D2P7lCWsAlxzLWloIGv{% endvideo %}
 
 ### 一、筛选粉丝
 
