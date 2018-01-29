@@ -2,7 +2,7 @@
 
 烽火台可以创建、编辑自己平台的素材，同时可以从微信后台同步素材。
 
-**放入视频**
+http://cdn.parllay.cn/llaxnEe3j7pRvgLUonw4YIKO\_jcf
 
 ### 一、创建消息素材
 
