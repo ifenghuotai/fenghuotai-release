@@ -1,6 +1,6 @@
 # 注册账号
 
-注册流程视频演示
+注册流程视频演示  
 {% video width="800px", height="540px" %}http://cdn.parllay.cn/lmzdNp1Oh-deDkg1QBbVx42GnoqD{% endvideo %}
 
 ## 具体操作步骤：
