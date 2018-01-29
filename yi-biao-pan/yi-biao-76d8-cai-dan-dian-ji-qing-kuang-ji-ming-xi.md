@@ -2,7 +2,7 @@
 
 粉丝在公众号中的互动行为，均会被记录在“仪表盘-用户行为”页面的报表中。
 
-**放入视频**
+http://cdn.parllay.cn/lhFd-ZUhrfE5UQWe8f6yVWFGv10p
 
 ## 具体介绍如下：
 
