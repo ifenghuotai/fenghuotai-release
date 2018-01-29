@@ -2,7 +2,7 @@
 
 在此页面可以为烽火台账号增加新的管理员，并且可以直接设置此管理员的功能权限以及所属团队。
 
-**放入视频**
+http://cdn.parllay.cn/FkWHb79bro-KJxJ0GgWgBXS4fiqy
 
 ### 一、添加平台用户
 
