@@ -1,6 +1,6 @@
 # 短链管理
 
-**放入视频**
+http://cdn.parllay.cn/li59L2omH8KjQgy3A2zGJetSNulF
 
 ### 一、创建短链
 
