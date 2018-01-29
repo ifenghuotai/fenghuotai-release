@@ -6,7 +6,7 @@
 * 普通二维码：创建新的二维码时使用；
 * 个性化二维码：为普通二维码增加LOGO，修改前景色；
 
-**放入视频**
+http://cdn.parllay.cn/ljI97KyScvRMDBmz7TYdySTnTYfP
 
 ### 一、创建二维码
 
