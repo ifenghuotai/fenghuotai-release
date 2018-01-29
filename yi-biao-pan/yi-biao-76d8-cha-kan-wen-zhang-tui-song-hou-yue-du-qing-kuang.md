@@ -1,6 +1,6 @@
 # 内容分析
 
-推送过的文章的阅读情况，均会被记录在“仪表盘-内容分析”报表中。
+推送过的文章的阅读情况，均会被记录在“仪表盘-内容分析”报表中。  
 {% video width="800px", height="540px" %}http://cdn.parllay.cn/Fm1ylmOIRnsv6eMVCClUc4Dz56Rc{% endvideo %}
 
 ## 具体介绍如下：
