@@ -1,8 +1,6 @@
 # 二维码报表
-{% video width="800px", height="540px" %}http://cdn.parllay.cn/Fm1ylmOIRnsv6eMVCClUc4Dz56Rc{% endvideo %}
 
-
-http://cdn.parllay.cn/Fnt7tCdG-M9nrbPuSn7DvtItFJAI
+{% video width="800px", height="540px" %}http://cdn.parllay.cn/Fnt7tCdG-M9nrbPuSn7DvtItFJAI{% endvideo %}
 
 ### 一、扫码概况
 
