@@ -37,3 +37,5 @@
 
 历史消息列表微信官方说明见 [http://mp.weixin.qq.com/wiki?t=resource/res\_main&id=mp1421140549&token=⟨=zh\_CN](http://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1421140549&token=&lang=zh_CN) （搜索“历史消息”）
 
+
+
