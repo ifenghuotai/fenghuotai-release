@@ -20,7 +20,7 @@
 
 * [标准群发](gao-ji-qun-fa/gao-ji-qun-fa.md)
 * [48小时群发](gao-ji-qun-fa/48xiao-shi-qun-fa.md)
-* 模板消息
+* [模板消息](gao-ji-qun-fa/mo-ban-xiao-xi.md)
 
 ## 企业功能
 
