@@ -18,7 +18,15 @@
 
 ## 高级群发
 
+* [高级群发](gao-ji-qun-fa/gao-ji-qun-fa.md)
+
 ## 企业功能
 
+* [公众号设置](qi-ye-gong-neng/gong-zhong-hao-she-zhi.md)
+
 ## 平台管理
+
+* [平台管理](ping-tai-guan-li/ping-tai-guan-li.md)
+* 企业管理
+* 企业分析
 
