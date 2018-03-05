@@ -30,5 +30,5 @@
 
 * [平台管理](ping-tai-guan-li/ping-tai-guan-li.md)
 * [企业管理](ping-tai-guan-li/qi-ye-guan-li.md)
-* 企业分析
+* [企业分析](ping-tai-guan-li/qi-ye-fen-xi.md)
 
