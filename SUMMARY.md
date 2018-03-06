@@ -24,6 +24,7 @@
 
 ## 企业功能
 
+* [用户管理](qi-ye-gong-neng/yong-hu-guan-li.md)
 * [公众号设置](qi-ye-gong-neng/gong-zhong-hao-she-zhi.md)
 
 ## 平台管理
