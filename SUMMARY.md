@@ -25,7 +25,7 @@
 
 ## 客户管理
 
-* 批量导入二维码
+* [批量导入二维码](ke-hu-guan-li/pi-liang-dao-ru-er-wei-ma.md)
 
 ## 追踪管理
 
