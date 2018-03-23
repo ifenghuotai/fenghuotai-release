@@ -21,5 +21,5 @@
 
 ## 素材管理
 
-* 消息素材
+* [消息素材](su-cai-guan-li/xiao-xi-su-cai.md)
 
