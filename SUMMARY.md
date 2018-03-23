@@ -13,7 +13,7 @@
 
 ## 仪表盘
 
-* 用户构成
+* [用户构成](yi-biao-pan/yong-hu-gou-cheng.md)
 
 ## 素材管理
 
