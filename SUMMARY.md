@@ -34,3 +34,7 @@
 
 * [二维码管理](sao-ma-guan-li/er-wei-ma-guan-li.md)
 
+## 企业功能
+
+* 公众号设置
+
