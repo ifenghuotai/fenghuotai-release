@@ -15,15 +15,17 @@
 
 * 用户构成
 
-## 扫码管理
+## 素材管理
 
-* [二维码管理](sao-ma-guan-li/er-wei-ma-guan-li.md)
+* [消息素材](su-cai-guan-li/xiao-xi-su-cai.md)
 
 ## 客户管理
 
 * 批量导入二维码
 
-## 素材管理
+## 扫码管理
 
-* [消息素材](su-cai-guan-li/xiao-xi-su-cai.md)
+* [二维码管理](sao-ma-guan-li/er-wei-ma-guan-li.md)
+
+## 高级群发
 
