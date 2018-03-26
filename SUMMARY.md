@@ -37,5 +37,6 @@
 
 ## 企业功能
 
+* [团队协作](qi-ye-gong-neng/tuan-dui-xie-zuo.md)
 * [公众号设置](qi-ye-gong-neng/gong-zhong-hao-she-zhi.md)
 
