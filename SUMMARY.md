@@ -14,6 +14,10 @@
 
 * [用户构成](yi-biao-pan/yong-hu-gou-cheng.md)
 
+## 场景应用
+
+* [规则首页](chang-jing-ying-yong/gui-ze-shou-ye.md)
+
 ## 素材管理
 
 * [消息素材](su-cai-guan-li/xiao-xi-su-cai.md)
@@ -39,6 +43,4 @@
 
 * [团队协作](qi-ye-gong-neng/tuan-dui-xie-zuo.md)
 * [公众号设置](qi-ye-gong-neng/gong-zhong-hao-she-zhi.md)
-
-## 场景应用
 
