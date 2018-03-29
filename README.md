@@ -10,6 +10,8 @@
 >
 > * [仪表盘](yi-biao-pan/yong-hu-gou-cheng.md)
 >
+> * [场景应用](chang-jing-ying-yong/gui-ze-shou-ye.md)
+>
 > * [素材管理](su-cai-guan-li/xiao-xi-su-cai.md)
 >
 > * [高级群发](gao-ji-qun-fa/gao-ji-qun-fa.md)
