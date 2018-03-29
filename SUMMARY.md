@@ -33,6 +33,7 @@
 ## 客户管理
 
 * [批量标签操作](ke-hu-guan-li/pi-liang-dao-ru-er-wei-ma.md)
+* [平台标签管理](ke-hu-guan-li/ping-tai-biao-qian-guan-li.md)
 
 ## 追踪管理
 
