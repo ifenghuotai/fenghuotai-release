@@ -6,10 +6,11 @@
 >
 > 烽火台定期提供完整的版本更新文档，若想了解迭代的具体功能，可以点击进行查看：
 >
-> *
-
-
-
+> * 域名调整
+> * 素材管理
+> * 高级群发
+> * 追踪管理
+>
 > 若在使用烽火台时遇到问题，可点击查看
 >
 > [http://app.ifenghuotai.cn/help/index.html](http://app.ifenghuotai.cn/help/index.html)
