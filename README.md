@@ -18,7 +18,7 @@
 >
 > 若在使用烽火台时遇到问题，可点击查看
 >
-> [http://brands.parllay.cn/help](http://brands.parllay.cn/help/)
+> http://app.ifenghuotai.cn/help/index.html
 
 
 
