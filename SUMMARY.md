@@ -3,7 +3,6 @@
 ## Release -1.1.5
 
 * [首页](README.md)
-* [域名调整](yu-ming-diao-zheng.md)
 
 ## 域名调整
 
