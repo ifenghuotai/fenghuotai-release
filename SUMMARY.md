@@ -5,6 +5,10 @@
 * [首页](README.md)
 * [域名调整](yu-ming-diao-zheng.md)
 
+## 域名调整
+
+* [域名调整](yu-ming-diao-zheng/yu-ming-diao-zheng.md)
+
 ## 素材管理
 
 * [消息素材](su-cai-guan-li/xiao-xi-su-cai.md)
