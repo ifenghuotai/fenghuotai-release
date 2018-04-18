@@ -9,6 +9,10 @@
 
 * [消息素材](su-cai-guan-li/xiao-xi-su-cai.md)
 
+## 客户管理
+
+* [批量标签操作](ke-hu-guan-li/pi-liang-biao-qian-cao-zuo.md)
+
 ## 高级群发
 
 * [高级群发](gao-ji-qun-fa/gao-ji-qun-fa.md)
