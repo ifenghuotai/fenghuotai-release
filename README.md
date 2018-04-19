@@ -6,15 +6,13 @@
 >
 > 烽火台定期提供完整的版本更新文档，若想了解迭代的具体功能，可以点击进行查看：
 >
-> * 域名调整
-> * 素材管理
-> * 客户管理
-> * 高级群发
-> * 追踪管理
+> * [域名调整](yu-ming-diao-zheng/yu-ming-diao-zheng.md)
+> * [素材管理](su-cai-guan-li/xiao-xi-su-cai.md)
+> * [客户管理](ke-hu-guan-li/pi-liang-biao-qian-cao-zuo.md)
+> * [高级群发](gao-ji-qun-fa/gao-ji-qun-fa.md)
+> * [追踪管理](zhui-zong-guan-li/duan-lian-guan-li.md)
 >
 > 若在使用烽火台时遇到问题，可点击查看
 >
 > [http://app.ifenghuotai.cn/help/index.html](http://app.ifenghuotai.cn/help/index.html)
-
-
 
