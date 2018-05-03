@@ -11,8 +11,8 @@
 ## 媒体推广
 
 * [媒体列表](mei-ti-tui-guang/mei-ti-lie-biao.md)
-* 推广报表
-* 推广管理
+* [推广报表](mei-ti-tui-guang/tui-guang-bao-biao.md)
+* [推广管理](mei-ti-tui-guang/tui-guang-guan-li.md)
 * 媒体管理
 * 推广数据
 
