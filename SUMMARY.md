@@ -13,7 +13,7 @@
 * [媒体列表](mei-ti-tui-guang/mei-ti-lie-biao.md)
 * [推广报表](mei-ti-tui-guang/tui-guang-bao-biao.md)
 * [推广管理](mei-ti-tui-guang/tui-guang-guan-li.md)
-* 媒体管理
+* [媒体管理](mei-ti-tui-guang/mei-ti-guan-li.md)
 * 推广数据
 
 ## 企业功能
