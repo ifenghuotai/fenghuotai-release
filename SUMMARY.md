@@ -10,7 +10,7 @@
 
 ## 媒体推广
 
-* 媒体列表
+* [媒体列表](mei-ti-tui-guang/mei-ti-lie-biao.md)
 * 推广报表
 * 推广管理
 * 媒体管理
