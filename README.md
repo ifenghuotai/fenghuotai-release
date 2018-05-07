@@ -6,7 +6,7 @@
 
 > 烽火台定期提供完整的版本更新文档，若想了解迭代的具体功能，可以点击进行查看：
 >
-> * [平台管理](/杀出现在)
+> * [平台管理](ping-tai-guan-li/qi-ye-lei-xing.md)
 > * 媒体推广
 > * [企业类型](ping-tai-guan-li/qi-ye-lei-xing.md)
 >
