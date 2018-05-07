@@ -7,7 +7,7 @@
 > 烽火台定期提供完整的版本更新文档，若想了解迭代的具体功能，可以点击进行查看：
 >
 > * [平台管理](ping-tai-guan-li/qi-ye-lei-xing.md)
-> * 媒体推广
+> * [媒体推广](mei-ti-tui-guang/mei-ti-lie-biao.md)
 > * [企业功能](qi-ye-gong-neng/gong-zhong-hao-she-zhi.md)
 >
 > 若在使用烽火台时遇到问题，可点击查看
