@@ -8,7 +8,7 @@
 >
 > * [平台管理](ping-tai-guan-li/qi-ye-lei-xing.md)
 > * 媒体推广
-> * [企业类型](ping-tai-guan-li/qi-ye-lei-xing.md)
+> * [企业功能](qi-ye-gong-neng/gong-zhong-hao-she-zhi.md)
 >
 > 若在使用烽火台时遇到问题，可点击查看
 >
