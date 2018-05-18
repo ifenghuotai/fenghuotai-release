@@ -67,7 +67,13 @@
         {
           "value": "/releases/1.1.6",
           "text": "1.1.6"
+        },
+        {
+          "value": "/releases/1.1.8",
+          "text": "1.1.8"
         }
+
+
 
       ]
     }
