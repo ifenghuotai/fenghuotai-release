@@ -6,13 +6,13 @@
 
 烽火台定期提供完整的版本更新文档，若想了解迭代的具体功能，可以点击进行查看：
 
-* [场景应用](/场景应用)
+* [场景应用](chang-jing-ying-yong/gui-ze-shou-ye.md)
 
-* [客户管理](https://legacy.gitbook.com/book/ifenghuotai/fenghuotai-releases/edit#/edit/release-1.1.7/ke-hu-guan-li/wei-xin-yong-hu-lie-biao.md?_k=7qvk5k)
+* [客户管理](ke-hu-guan-li/wei-xin-yong-hu-lie-biao.md)
 
-* [追踪管理](https://legacy.gitbook.com/book/ifenghuotai/fenghuotai-releases/edit#/edit/release-1.1.7/zhui-zong-guan-li/zhui-zong-pei-zhi.md?_k=5ne82u)
+* [追踪管理](zhui-zong-guan-li/zhui-zong-pei-zhi.md)
 
-* [企业功能](/企业功能)
+* [企业功能](qi-ye-gong-neng/gong-zhong-hao-she-zhi.md)
 
 若在使用烽火台时遇到问题，可点击查看
 
