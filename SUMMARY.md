@@ -14,3 +14,5 @@
 
 ## 扫码管理
 
+* [扫码管理](sao-ma-guan-li/sao-ma-guan-li.md)
+
