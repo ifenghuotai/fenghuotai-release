@@ -10,7 +10,7 @@
 
 ## 用户管理
 
-* 用户管理
+* [用户管理](yong-hu-guan-li/yong-hu-guan-li.md)
 
 ## 扫码管理
 
