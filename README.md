@@ -6,15 +6,16 @@
 >
 > 烽火台定期提供完整的版本更新文档，若想了解迭代的具体功能，可以点击进行查看：
 >
-> * 素材管理
+> * [素材管理](su-cai-guan-li/su-cai-guan-li.md)
 >
-> * [用户](ke-hu-guan-li/wei-xin-yong-hu-lie-biao.md)管理
+> * [用户管理](yong-hu-guan-li/yong-hu-guan-li.md)
 >
-> * 扫码管理
+> * [扫码管理](sao-ma-guan-li/sao-ma-guan-li.md)
 
      若在使用烽火台时遇到问题，可点击查看
 
 > [http://app.ifenghuotai.cn/help/index.html](http://app.ifenghuotai.cn/help/index.html)
+
 
 
 
