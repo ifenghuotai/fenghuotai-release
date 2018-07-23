@@ -15,11 +15,15 @@
 * [消息素材](su-cai-guan-li/xiao-xi-su-cai.md)
 * [媒体素材](su-cai-guan-li/mei-ti-su-cai.md)
 
-## 企业功能
-
-* [公众号设置](qi-ye-gong-neng/gong-zhong-hao-she-zhi.md)
-
 ## 客户管理
 
 * [微信用户列表](ke-hu-guan-li/wei-xin-yong-hu-lie-biao.md)
+
+## 高级群发
+
+* [高级群发](gao-ji-qun-fa/gao-ji-qun-fa.md)
+
+## 企业功能
+
+* [公众号设置](qi-ye-gong-neng/gong-zhong-hao-she-zhi.md)
 
