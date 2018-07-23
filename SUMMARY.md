@@ -13,6 +13,7 @@
 ## 素材管理
 
 * [消息素材](su-cai-guan-li/xiao-xi-su-cai.md)
+* [媒体素材](su-cai-guan-li/mei-ti-su-cai.md)
 
 ## 企业功能
 
