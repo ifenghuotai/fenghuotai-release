@@ -4,7 +4,7 @@
 
 ## 公众号接入
 
-* [同步功能升级](gong-zhong-hao-jie-ru/gong-zhong-hao-jie-ru.md)
+* [自动同步升级](gong-zhong-hao-jie-ru/gong-zhong-hao-jie-ru.md)
 
 ## 企业功能
 
