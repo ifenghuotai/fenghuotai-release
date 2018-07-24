@@ -23,6 +23,14 @@
 
 * [高级群发](gao-ji-qun-fa/gao-ji-qun-fa.md)
 
+## 扫码管理
+
+* [二维码管理](sao-ma-guan-li/er-wei-ma-guan-li.md)
+
+## 菜单管理
+
+* [基础菜单](cai-dan-guan-li/ji-chu-cai-dan.md)
+
 ## 企业功能
 
 * [公众号设置](qi-ye-gong-neng/gong-zhong-hao-she-zhi.md)
