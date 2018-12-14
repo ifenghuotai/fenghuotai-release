@@ -6,25 +6,18 @@
 >
 > > 烽火台定期提供完整的版本更新文档，若想了解迭代的具体功能，可以点击进行查看：
 > >
-> > * [2.1接入小程序](/xiao-cheng-xu-jie-ru/21jie-ru-xiao-cheng-xu.md)
+> > * [接入小程序](/xiao-cheng-xu-jie-ru/21jie-ru-xiao-cheng-xu.md)
 > >
-> > * [3.1接入hubspot](/hubspotjie-ru/jie-ru-hubspot.md)
+> > * [接入hubspot](/hubspotjie-ru/jie-ru-hubspot.md)
 > >
-> > * [4.1小程序报表](/yi-biao-pan/41yi-biao-pan.md)
+> > * [小程序报表](/yi-biao-pan/41yi-biao-pan.md)
 > >
-> > * [4.2自定义报表](/yi-biao-pan/42zi-ding-yi-bao-biao.md)
+> > * [自定义报表](/yi-biao-pan/42zi-ding-yi-bao-biao.md)
 > >
-> > * [5.1工作流](/chang-jing-ying-yong/51gong-zuo-liu.md)
+> > * [工作流](/chang-jing-ying-yong/51gong-zuo-liu.md)
 > >
-> > * [6.1追踪配置](/zhui-zong-guan-li/61zhui-zong-pei-zhi.md)
+> > * [追踪配置](/zhui-zong-guan-li/61zhui-zong-pei-zhi.md)
 >
-> ```
->
-> ```
-
-```
-
-```
 
 > ```
 >  若在使用烽火台时遇到问题，可点击查看
