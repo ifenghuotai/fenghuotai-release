@@ -8,25 +8,27 @@
 > >
 > > * [2.1接入小程序](/xiao-cheng-xu-jie-ru/21jie-ru-xiao-cheng-xu.md)
 > >
-> > * [接入hubspot](/hubspotjie-ru/jie-ru-hubspot.md)
+> > * [3.1接入hubspot](/hubspotjie-ru/jie-ru-hubspot.md)
 > >
-> > * [素材管理](http://app.ifenghuotai.cn/releases/1.1.9/su-cai-guan-li/xiao-xi-su-cai.html)
+> > * [4.1小程序报表](/yi-biao-pan/41yi-biao-pan.md)
 > >
-> > * [客户管理](http://app.ifenghuotai.cn/releases/1.1.9/ke-hu-guan-li/wei-xin-yong-hu-lie-biao.html)
+> > * [4.2自定义报表](/yi-biao-pan/42zi-ding-yi-bao-biao.md)
 > >
-> > * [高级群发](http://app.ifenghuotai.cn/releases/1.1.9/gao-ji-qun-fa/gao-ji-qun-fa.html)
+> > * [5.1工作流](/chang-jing-ying-yong/51gong-zuo-liu.md)
 > >
-> > * [扫码管理](http://app.ifenghuotai.cn/releases/1.1.9/sao-ma-guan-li/er-wei-ma-guan-li.html)
-> >
-> > * [菜单管理](http://app.ifenghuotai.cn/releases/1.1.9/cai-dan-guan-li/ji-chu-cai-dan.html)
-> >
-> > * [企业功能](http://app.ifenghuotai.cn/releases/1.1.9/qi-ye-gong-neng/gong-zhong-hao-she-zhi.html)
+> > * [6.1追踪配置](/zhui-zong-guan-li/61zhui-zong-pei-zhi.md)
 >
+> ```
+>
+> ```
+
+```
+
+```
+
 > ```
 >  若在使用烽火台时遇到问题，可点击查看
 > ```
->
-> > [http://app.ifenghuotai.cn/help/index.html](http://app.ifenghuotai.cn/help/index.html)
 
 
 
