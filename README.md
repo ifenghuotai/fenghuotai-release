@@ -6,9 +6,11 @@
 >
 > 烽火台定期提供完整的版本更新文档，若想了解迭代的具体功能，可以点击进行查看：
 >
-> * 
-> * 
-> * 推荐媒体
+> * [推荐媒体](/xiao-cheng-xu-jie-ru/21jie-ru-xiao-cheng-xu.md)
+>
+> * [漏斗分析](/hubspotjie-ru/jie-ru-hubspot.md)
+>
+> * [留存分析](/hubspotjie-ru/liu-cun-fen-xi.md)
 
 ```
  若在使用烽火台时遇到问题，可点击查看
