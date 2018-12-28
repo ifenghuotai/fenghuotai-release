@@ -4,6 +4,10 @@
 
 * [首页](README.md)
 
+## 仪表盘
+
+* [自定义报表](yi-biao-pan/zi-ding-yi-bao-biao.md)
+
 ## 客群报表
 
 * [推荐媒体](xiao-cheng-xu-jie-ru/21jie-ru-xiao-cheng-xu.md)
