@@ -1,8 +1,18 @@
-## 公众号设置
+## 客户画像
 
-位置：企业功能-公众号设置-接入小程序
+位置：客户管理—客户画像
 
-功能：接入小程序到烽火台，追踪用户行为，并进行报表分析
+功能：展示粉丝使用小程序、hubspot的用户画像以及hubspot属性，掌握用户在小程序及hubspot上的行为事件。
 
-![](/assets/jieruxiaochengxu.png)
+![](/assets/xcxhx.png)
+
+![](/assets/hubspothx.png)
+
+![](/assets/hubspotsx.png)
+
+
+
+
+
+
 
