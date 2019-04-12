@@ -83,7 +83,28 @@
   	{
           "value": "/releases/2.3.0",
           "text": "2.3.0"
+        },
+        {
+          "value": "/releases/2.4.0",
+          "text": "2.4.0"
+        },
+        {
+          "value": "/releases/2.5.0",
+          "text": "2.5.0"
+        },
+        {
+          "value": "/releases/2.6.0",
+          "text": "2.6.0"
         }
+
+
+
+
+
+
+
+
+
 
       ]
     }
